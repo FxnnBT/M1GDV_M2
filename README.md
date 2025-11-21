@@ -1,11 +1,12 @@
 # M1GDV_M2
-
+---
 # Inhoud
 
 
 - [1.1 GameConcept](#gameconcept)
 - [1.2 Randomitems](#random-items)
 
+---
 
 # 1.1 GameConcept
 ## Titel game: PinDrop
@@ -17,6 +18,7 @@ De speler moet een pin schieten op ballonnen en sommige zijn stenen en dan bounc
 
 ![Schets](images/schets.png "Schets")
 
+---
 
 # 1.2 Random items
 ![randomitem](images/random_items.gif "randomitems")
