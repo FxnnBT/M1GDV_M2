@@ -487,6 +487,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1815192129}
   - component: {fileID: 1815192130}
+  - component: {fileID: 1815192131}
   m_Layer: 0
   m_Name: canon
   m_TagString: Untagged
@@ -567,6 +568,21 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1815192131
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1815192128}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ada8df445655444ba6302a810ee8ff8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Shoot
+  prefab: {fileID: 5440623549026436420, guid: 3402e1bc23e085d4e91913e9d4bd1ff7, type: 3}
+  forceBuild: 20
+  maximumHoldTime: 5
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0

@@ -3,8 +3,8 @@
 # Inhoud
 
 - [Link naar lessen](#link-naar-lessen)
-- [1.1 GameConcept](#gameconcept)
-- [1.2 Randomitems](#random-items)
+- [1.1 GameConcept](#11-gameconcept)
+- [1.2 Randomitems](#12-random-items)
 - [2.2 Canon](#22-peggle-mikken-line-renderer)
 
 ---
