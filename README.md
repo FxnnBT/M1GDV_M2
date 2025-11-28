@@ -18,7 +18,7 @@ https://github.com/djsjollema/lessen-gamedevelopment/tree/main/M2/GDV
 ## Genre
 Physics-based arcade puzzelgame.
 ## Beschrijving
-De speler moet een pin schieten op ballonnen en sommige zijn stenen en dan bounced ie ergens naartoe en hij valt op een stukje van een houtboord. De speler heeft 1 pin. als de pin een lucky ballon hit dan krijgt die nog een pin en kan je de scoren verhogen. als de pin de grond aanraakt dan word de definitieve score uitgerekend
+De speler moet een pin schieten op ballonnen en sommige zijn stenen en dan bounced ie ergens naartoe en hij valt op een stukje van een houtboord. De speler heeft 1 pin. als de pin een lucky ballon hit dan krijgt die nog een pin en kan je de scoren verhogen. als de pin de grond aanraakt dan word de definitieve score uitgerekend. Als de pin een minimale score heeft behaald dan word het level reset en moet je een hogere scoren krijgen
 
 ![Schets](images/schets.png "Schets")
 
